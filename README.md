@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about WebD ,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h5>
+<h5 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about Web Development ,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h5>
 
 ###
 
@@ -83,7 +83,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahapnah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20used" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahapnah&radius=16&theme=merko&area=true&order=5&custom_title=My%20contribution%20graph&line=ffda36" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahapnah&radius=16&theme=merko&area=true&order=5&custom_title=Rishi's%20contribution%20graph&line=ffda36" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
