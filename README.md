@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+  <img height="391" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/43900bba70ccf4d73197c8da41c3bc8763e9a8762b9179ae6caf2edde3e153f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966"  />
+<img align="right" height="280" src="https://camo.githubusercontent.com/43900bba70ccf4d73197c8da41c3bc8763e9a8762b9179ae6caf2edde3e153f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966"  />
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about Android,Kotlin,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h6>
+<h5 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about WebD ,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h5>
 
 ###
 
