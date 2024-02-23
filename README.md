@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="391" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+  <img height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="280" src="https://camo.githubusercontent.com/43900bba70ccf4d73197c8da41c3bc8763e9a8762b9179ae6caf2edde3e153f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966"  />
+<img align="right" height="300" src="https://camo.githubusercontent.com/43900bba70ccf4d73197c8da41c3bc8763e9a8762b9179ae6caf2edde3e153f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966"  />
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about Web Development ,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h5>
+<h3 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about Web Development ,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h3>
 
 ###
 
@@ -85,9 +85,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahapnah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20used" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahapnah&radius=16&theme=merko&area=true&order=5&custom_title=Rishi's%20contribution%20graph&line=ffda36" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jahapnah/jahapnah/output/snake.svg" alt="Snake animation" />
 
 ###
