@@ -1,5 +1,5 @@
-![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611p01yvcp9evr78kfc8xuo6i8iv4r1vp3u6ixnd8op&ep=v1_gifs_search&rid=giphy.gif&ct=g))
-<h1 align="center">Hi 👋, I'm Vivek Panchal</h1>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi 👋, I'm Rishi Kant</h1>
 <h3 align="center">A passionate Web developer from India 🇮🇳 </h3>
 <h1> </h1>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Android,Kotlin,C++,DSA**
+- 💬 Ask me about **FrontEnd,Bckend,C++,DSA**
 
 - 📫 How to reach me **vivek.nsut@gmail.com**
 
