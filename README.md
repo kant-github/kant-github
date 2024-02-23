@@ -50,7 +50,7 @@
 </div>
 
 ###
-
+<br>
 <h1 align="left">🛠️ Languages and Tools :</h1>
 
 ###
@@ -76,7 +76,7 @@
 </div>
 
 ###
-
+<br>
 <h1 align="left">📈 GitHub Stats</h1>
 
 ###
