@@ -58,27 +58,27 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
 ###
