@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently learning MERN Stack Development<br><br>💬 Ask me about Web Development ,C++,DSA<br><br>📫 How to reach me kantrishi7779@gmail.com</h4>
+<h4 align="left">🔭 I’m currently working with TypeScript, Next.js, MERN, and PostgreSQL<br><br>💬 Ask me about Web Development, JavaScript, TypeScript<br><br>📫 How to reach me: kantrishi7779@gmail.com</h4>
 
 ###
 
