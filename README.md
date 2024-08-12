@@ -55,7 +55,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
