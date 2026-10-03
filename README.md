@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/Rishi.JPG" width="88" alt="Rishi Kant" />
-
-<h1>Rishi Kant</h1>
-
 <p>Engineer at <a href="https://appx.co.in">AppX</a> (YC S21) · Noida, India</p>
 
 I build applications end to end: the product, the backend behind it, and the infrastructure it runs on. Currently exploring infrastructure, the Ethereum chain, lending protocols, cryptography, and how MPC works under the hood.
