@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/Rishi.JPG" width="88" alt="Rishi Kant" />
+
 <h1>Rishi Kant</h1>
 
 <p>Engineer at <a href="https://appx.co.in">AppX</a> (YC S21) · Noida, India</p>
@@ -10,12 +12,36 @@ Away from the terminal I am usually listening to something loud or reading about
 
 ### Work
 
-| | |
-| --- | --- |
-| **[Winterfell](https://winterfell.dev)** | Write, test and deploy Anchor smart contracts on Solana from the browser. First place at the Superteam India Hackathon. |
-| **[Matcha](https://heydarwin.app)** | An engineering board where an agent picks up an issue, works on it in its own sandbox, and opens the pull request for review. |
-| **[HighGarden](https://highgarden.trade)** | A prediction market built on Solana, made to settle fast. |
-| **[Nocturn](https://nocturn.app)** | A real-time quiz platform where players compete for on-chain rewards, with rooms synced over WebSockets and Redis Pub/Sub. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://winterfell.dev"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/winterfell.png" alt="Winterfell" /></a>
+      <br><br>
+      <b><a href="https://winterfell.dev">Winterfell</a></b><br>
+      Write, test and deploy Anchor smart contracts on Solana from the browser. First place at the Superteam India Hackathon.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://heydarwin.app"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/matcha.png" alt="Matcha" /></a>
+      <br><br>
+      <b><a href="https://heydarwin.app">Matcha</a></b><br>
+      An engineering board where an agent picks up an issue, works on it in its own sandbox, and opens the pull request for review.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://highgarden.trade"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/highgarden.png" alt="HighGarden" /></a>
+      <br><br>
+      <b><a href="https://highgarden.trade">HighGarden</a></b><br>
+      A prediction market built on Solana, made to settle fast.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nocturn.app"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/nocturn.png" alt="Nocturn" /></a>
+      <br><br>
+      <b><a href="https://nocturn.app">Nocturn</a></b><br>
+      A real-time quiz platform where players compete for on-chain rewards, with rooms synced over WebSockets and Redis Pub/Sub.
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -31,8 +57,17 @@ Fixed UI bugs across the codebase, improving layout and responsiveness, and work
 
 ### Case study
 
-**[Taste is the new moat](PORTFOLIO_URL/case-studies/taste-is-the-new-moat)**
-How I built Winterfell end to end in 23 days, and why taste matters more now that AI can write the code.
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <a href="PORTFOLIO_URL/case-studies/taste-is-the-new-moat"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/case-studies/taste/landing.png" width="200" alt="Winterfell landing page" /></a>
+    </td>
+    <td valign="top">
+      <b><a href="PORTFOLIO_URL/case-studies/taste-is-the-new-moat">Taste is the new moat</a></b><br>
+      How I built Winterfell end to end in 23 days, and why taste matters more now that AI can write the code. 264 commits, a $1,000 Superteam prize, and the parts I had to skip on stage.
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -42,6 +77,45 @@ How I built Winterfell end to end in 23 days, and why taste matters more now tha
 
 <br>
 
+### Personal
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/01.jpg" alt="With friends on a night out" /></td>
+    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/04.jpg" alt="An evening walk with a friend" /></td>
+    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/02.jpg" alt="A late night build session around the table" /></td>
+    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/03.jpg" alt="Rishi" /></td>
+  </tr>
+</table>
+
+<br>
+
 ### Reach me
 
-[Portfolio](PORTFOLIO_URL) &nbsp;·&nbsp; [X](https://x.com/khairrishi) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kant-linked/) &nbsp;·&nbsp; [kantrishi7779@gmail.com](mailto:kantrishi7779@gmail.com)
+<p>
+  <a href="PORTFOLIO_URL" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="28" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kant-github" title="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-glyphs/60/ffffff/github.png">
+      <img src="https://img.icons8.com/ios-glyphs/60/github.png" width="28" alt="GitHub" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/khairrishi" title="X">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/x.png">
+      <img src="https://img.icons8.com/ios-filled/50/x.png" width="26" alt="X" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kant-linked/" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kantrishi7779@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" alt="Email" />
+  </a>
+</p>
