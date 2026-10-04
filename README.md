@@ -11,13 +11,13 @@ Away from the terminal I am usually listening to something loud or reading about
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://winterfell.dev"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/winterfell.png" alt="Winterfell" /></a>
+      <a href="https://winterfell.dev"><img src="assets/winterfell.jpg" alt="Winterfell" /></a>
       <br><br>
       <b><a href="https://winterfell.dev">Winterfell</a></b><br>
       Write, test and deploy Anchor smart contracts on Solana from the browser. First place at the Superteam India Hackathon.
     </td>
     <td width="50%" valign="top">
-      <a href="https://heydarwin.app"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/matcha.png" alt="Matcha" /></a>
+      <a href="https://heydarwin.app"><img src="assets/matcha.jpg" alt="Matcha" /></a>
       <br><br>
       <b><a href="https://heydarwin.app">Matcha</a></b><br>
       An engineering board where an agent picks up an issue, works on it in its own sandbox, and opens the pull request for review.
@@ -25,13 +25,13 @@ Away from the terminal I am usually listening to something loud or reading about
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://highgarden.trade"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/highgarden.png" alt="HighGarden" /></a>
+      <a href="https://highgarden.trade"><img src="assets/highgarden.jpg" alt="HighGarden" /></a>
       <br><br>
       <b><a href="https://highgarden.trade">HighGarden</a></b><br>
       A prediction market built on Solana, made to settle fast.
     </td>
     <td width="50%" valign="top">
-      <a href="https://nocturn.app"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/work/nocturn.png" alt="Nocturn" /></a>
+      <a href="https://nocturn.app"><img src="assets/nocturn.jpg" alt="Nocturn" /></a>
       <br><br>
       <b><a href="https://nocturn.app">Nocturn</a></b><br>
       A real-time quiz platform where players compete for on-chain rewards, with rooms synced over WebSockets and Redis Pub/Sub.
@@ -56,7 +56,7 @@ Fixed UI bugs across the codebase, improving layout and responsiveness, and work
 <table>
   <tr>
     <td width="200" valign="top">
-      <a href="PORTFOLIO_URL/case-studies/taste-is-the-new-moat"><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/case-studies/taste/landing.png" width="200" alt="Winterfell landing page" /></a>
+      <a href="PORTFOLIO_URL/case-studies/taste-is-the-new-moat"><img src="assets/taste-is-the-new-moat.jpg" width="200" alt="Winterfell landing page" /></a>
     </td>
     <td valign="top">
       <b><a href="PORTFOLIO_URL/case-studies/taste-is-the-new-moat">Taste is the new moat</a></b><br>
@@ -77,10 +77,10 @@ Fixed UI bugs across the codebase, improving layout and responsiveness, and work
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/01.jpg" alt="With friends on a night out" /></td>
-    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/04.jpg" alt="An evening walk with a friend" /></td>
-    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/02.jpg" alt="A late night build session around the table" /></td>
-    <td><img src="https://raw.githubusercontent.com/kant-github/kant-portfolio/main/public/images/gallery/03.jpg" alt="Rishi" /></td>
+    <td><img src="assets/photo-01.jpg" alt="With friends on a night out" /></td>
+    <td><img src="assets/photo-04.jpg" alt="An evening walk with a friend" /></td>
+    <td><img src="assets/photo-02.jpg" alt="A late night build session around the table" /></td>
+    <td><img src="assets/photo-03.jpg" alt="Rishi" /></td>
   </tr>
 </table>
 
